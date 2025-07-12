@@ -17,12 +17,12 @@ Experience the live website: [2048 Demo](https://hetskoweb.github.io/2048_game)
 
 **Core**
 * **HTML** - Markup
-* **Sass(v1.83.4)** - Styling
+* **Sass (v1.83.4)** - Styling
 * **JavaScript** - Scripting
 
 **Development**
-* **ESLint(v8.57.0)** - Code Quality
-* **Prettier(v3.3.2)** - Code Formatting
+* **ESLint (v8.57.0)** - Code Quality
+* **Prettier (v3.3.2)** - Code Formatting
 
 # Features
 
