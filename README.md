@@ -1,7 +1,7 @@
 # 2048 — Classic Sliding Tile Puzzle Game
 This project is a web-based version of the popular 2048 puzzle game. Players combine numbered tiles by sliding them on a grid to create the tile with the number 2048. The game features smooth animations, intuitive controls, and a clean user interface designed for both desktop and mobile devices. It offers an engaging and addictive experience for casual gamers and puzzle enthusiasts alike.
 
-# How to Play
+## How to Play
 
 Use the arrow keys (← ↑ → ↓) to slide the tiles on the grid.
 
@@ -9,11 +9,11 @@ When two tiles with the same number touch, they merge into one with their sum.
 
 The goal is to create a tile with the number 2048!
 
-# Live demo
+## Live demo
 
 Experience the live website: [2048 Demo](https://hetskoweb.github.io/2048_game)
 
-# Technologies Used 💻
+## Technologies Used 💻
 
 **Core**
 * **HTML** - Markup
@@ -24,7 +24,7 @@ Experience the live website: [2048 Demo](https://hetskoweb.github.io/2048_game)
 * **ESLint (v8.57.0)** - Code Quality
 * **Prettier (v3.3.2)** - Code Formatting
 
-# Features
+## Features
 
 - **Classic 2048 gameplay:** Combine numbered tiles by sliding them to reach the 2048 tile.
 - **Smooth animations:** Visual feedback for tile merges and moves.
@@ -35,7 +35,7 @@ Experience the live website: [2048 Demo](https://hetskoweb.github.io/2048_game)
 - **Game status messages:** Shows winning and losing messages clearly.
 - **Clean and modern design:** Simple UI with clear tile colors and fonts.
 
-# Additional Setup Instructions
+## Additional Setup Instructions
 
 1. **Clone the repository:**
 ```bash
